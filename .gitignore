@@ -40,3 +40,4 @@ yarn-debug.log*
 .yarn-integrity
 
 setup.txt
+rails_generate.txt
